@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -38,14 +39,27 @@
     
     
 }
-.l{
 
-    letter-spacing:7px
-}
 @layer components{
 
 .g{
     @apply w-32 h-32  text-designColor text-5xl
 
 }
+}
+
+.opp{
+      opacity: 0;
+    transition: .9s ease-in-out;
+    
+}
+
+.opp:hover{
+ 
+    opacity: 0.8;
+    background:linear-gradient(rgb(0, 0, .2),#81edf1);
+    border-radius: 20px;
+    
+    
+    
 }

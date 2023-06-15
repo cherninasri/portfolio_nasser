@@ -4,6 +4,7 @@ import { BsWhatsapp , BsFacebook} from "react-icons/bs";
 
 
 import '../index.css';
+import { FaLinkedinIn } from 'react-icons/fa';
 
 
 const Contacts = () => {
@@ -18,34 +19,34 @@ const Contacts = () => {
    <div className='flex flex-row flex-wrap mt-20' >
 
    
-   <div className='w-[300px] relative mx-auto h-[300px] rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
+   <div className='w-[300px] relative mb-3 mx-auto h-[300px] rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
    <div className=' mt-12 g ml-16'  >
    <CgMail/>
    </div>
    <h1 className='font-NFonts text-base text-white mb-52 mr-4'>Email</h1>
    <h1 className='font-NFonts text-base text-white mt-36  absolute'>cherniinasriii@gmail.com</h1>
-  <a href='https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=Af_xneGUJwhzcxtpfOHr0VJjMHjYXSh7Ax3Cai6SYEDJra4WvLEWQKTcNN29CKO62TAsPXzsSoBb&flowName=GlifWebSignIn&flowEntry=ServiceLogin' className="text-base mt-60 font-NFonts  absolute text-white tracking-wide cursor-pointer hover:scale-125    hover:text-designColor duration-1000  border-designColor">send a message</a>
+  <a target="_blank" href='https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=Af_xneGUJwhzcxtpfOHr0VJjMHjYXSh7Ax3Cai6SYEDJra4WvLEWQKTcNN29CKO62TAsPXzsSoBb&flowName=GlifWebSignIn&flowEntry=ServiceLogin' className="text-base mt-60 font-NFonts  absolute text-designColor tracking-wide cursor-pointer hover:scale-125  duration-1000  ">send a message</a>
 
 
    </div>
-   <div className='w-[300px] relative mx-auto h-[300px] rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
+   <div className='w-[300px] relative mx-auto mb-3 h-[300px] rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
    <div className=' mt-12 g ml-16'  >
    <BsFacebook/>
    </div>
    <h1 className='font-NFonts text-base text-white mb-52 mr-4'>Facebook</h1>
    <h1 className='font-NFonts text-base text-white mt-36 -ml-5  absolute'>Na sser</h1>
    
-  <a  href='https://www.facebook.com/nasri.cherni.75/' className="text-base mt-60 font-NFonts  absolute text-white tracking-wide cursor-pointer hover:scale-125    hover:text-designColor duration-1000  border-designColor">send a message</a>
+  <a target="_blank" href='https://www.facebook.com/nasri.cherni.75/' className="text-base mt-60 font-NFonts  absolute text-designColor tracking-wide cursor-pointer hover:scale-125 hover:text-designColor duration-1000  border-designColor">send a message</a>
 
 
    </div>
-   <div className='w-[300px] relative mx-auto h-[300px] rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
+   <div className='w-[300px] relative mx-auto h-[300px] mb-3 rounded-2xl border-solid border-2 border-SecondesignColor flex flex-col items-center bg-SecondesignColor duration-1000 hover:-translate-y-3' > 
    <div className=' mt-12 g ml-16'  >
-   <BsWhatsapp/>
+   <FaLinkedinIn/>
    </div>
-   <h1 className='font-NFonts text-base text-white mb-52 mr-4'>Whatsapp</h1>
-   <h1 className='font-NFonts text-base text-white mt-36  l absolute'>50349860</h1>
-  <a href='https://web.whatsapp.com/' className="text-base mt-60 font-NFonts  absolute text-white tracking-wide cursor-pointer hover:scale-125    hover:text-designColor duration-1000  border-designColor">send a message</a>
+   <h1 className='font-NFonts text-base text-white mb-52 mr-4'>linkedin</h1>
+   <h1 className='font-NFonts text-base text-white mt-36  l absolute'>nasri cherni</h1>
+  <a target="_blank" href='https://www.linkedin.com/in/nasri-cherni-983512265/' className="text-base mt-60 font-NFonts absolute text-designColor tracking-wide cursor-pointer hover:scale-125 hover:text-designColor duration-1000  border-designColor">send a message</a>
 
 
    </div>
