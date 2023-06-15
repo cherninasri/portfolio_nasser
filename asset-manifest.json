@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio_nasser/static/css/main.8e325868.css",
+    "main.js": "/portfolio_nasser/static/js/main.dd2d931a.js",
+    "static/media/r2.PNG": "/portfolio_nasser/static/media/r2.36bf049d8b0d7a43e464.PNG",
+    "static/media/bannerImg.png": "/portfolio_nasser/static/media/bannerImg.306d163f0e66c6148139.png",
+    "static/media/r9.PNG": "/portfolio_nasser/static/media/r9.543364749915c56fb2b6.PNG",
+    "static/media/bannerImg2.png": "/portfolio_nasser/static/media/bannerImg2.5c98f94838460ab25888.png",
+    "static/media/r11.PNG": "/portfolio_nasser/static/media/r11.199669e1045e8273775d.PNG",
+    "static/media/r10.PNG": "/portfolio_nasser/static/media/r10.9ba2896dd516d27965eb.PNG",
+    "static/media/r4.PNG": "/portfolio_nasser/static/media/r4.4f48e96e50cf7ce6f8ea.PNG",
+    "static/media/r7.PNG": "/portfolio_nasser/static/media/r7.f527cde5a815253de827.PNG",
+    "static/media/r6.PNG": "/portfolio_nasser/static/media/r6.3e17ed7431374666d73c.PNG",
+    "static/media/r3.PNG": "/portfolio_nasser/static/media/r3.bb22e183ae417a701bc1.PNG",
+    "static/media/r12.PNG": "/portfolio_nasser/static/media/r12.15bb5e3ec92e5630901a.PNG",
+    "static/media/r8.PNG": "/portfolio_nasser/static/media/r8.c6cb46fda9984516da0d.PNG",
+    "static/media/f2.PNG": "/portfolio_nasser/static/media/f2.f52b2674b493436cdcc8.PNG",
+    "static/media/f3.PNG": "/portfolio_nasser/static/media/f3.04fbc3532b4ea0d4cdb3.PNG",
+    "static/media/f1.PNG": "/portfolio_nasser/static/media/f1.b871757b223c66c81187.PNG",
+    "static/media/contactImg.png": "/portfolio_nasser/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/portfolio_nasser/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/portfolio_nasser/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/portfolio_nasser/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/portfolio_nasser/index.html",
+    "main.8e325868.css.map": "/portfolio_nasser/static/css/main.8e325868.css.map",
+    "main.dd2d931a.js.map": "/portfolio_nasser/static/js/main.dd2d931a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e325868.css",
+    "static/js/main.dd2d931a.js"
+  ]
+}
