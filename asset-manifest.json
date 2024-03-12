@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_nasser/static/css/main.b7edb266.css",
-    "main.js": "/portfolio_nasser/static/js/main.69853cfb.js",
+    "main.css": "/portfolio_nasser/static/css/main.da116f19.css",
+    "main.js": "/portfolio_nasser/static/js/main.8f492baa.js",
     "static/media/r2.PNG": "/portfolio_nasser/static/media/r2.36bf049d8b0d7a43e464.PNG",
     "static/media/bannerImg.png": "/portfolio_nasser/static/media/bannerImg.306d163f0e66c6148139.png",
     "static/media/r9.PNG": "/portfolio_nasser/static/media/r9.543364749915c56fb2b6.PNG",
@@ -11,6 +11,7 @@
     "static/media/r4.PNG": "/portfolio_nasser/static/media/r4.4f48e96e50cf7ce6f8ea.PNG",
     "static/media/r7.PNG": "/portfolio_nasser/static/media/r7.f527cde5a815253de827.PNG",
     "static/media/r6.PNG": "/portfolio_nasser/static/media/r6.3e17ed7431374666d73c.PNG",
+    "static/media/i.png": "/portfolio_nasser/static/media/i.a6780da90a0c32daf28f.png",
     "static/media/r3.PNG": "/portfolio_nasser/static/media/r3.bb22e183ae417a701bc1.PNG",
     "static/media/r12.PNG": "/portfolio_nasser/static/media/r12.15bb5e3ec92e5630901a.PNG",
     "static/media/r8.PNG": "/portfolio_nasser/static/media/r8.c6cb46fda9984516da0d.PNG",
@@ -22,11 +23,11 @@
     "static/media/projectThree.jpeg": "/portfolio_nasser/static/media/projectThree.47442baa3158613330ab.jpeg",
     "static/media/testimonialTwo.png": "/portfolio_nasser/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "index.html": "/portfolio_nasser/index.html",
-    "main.b7edb266.css.map": "/portfolio_nasser/static/css/main.b7edb266.css.map",
-    "main.69853cfb.js.map": "/portfolio_nasser/static/js/main.69853cfb.js.map"
+    "main.da116f19.css.map": "/portfolio_nasser/static/css/main.da116f19.css.map",
+    "main.8f492baa.js.map": "/portfolio_nasser/static/js/main.8f492baa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7edb266.css",
-    "static/js/main.69853cfb.js"
+    "static/css/main.da116f19.css",
+    "static/js/main.8f492baa.js"
   ]
 }
