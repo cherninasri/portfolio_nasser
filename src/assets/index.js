@@ -1,6 +1,8 @@
 import logo from "./images/logo.png";
 import bannerImg from "./images/bannerImg.png";
 import bannerImg2 from "./images/bannerImg2.png";
+import ii from "./images/i.png";
+
 
 import projectOne from "./images/projects/f1.PNG";
 import projectTwo from "./images/projects/f2.PNG";
@@ -43,7 +45,7 @@ export {
   r8,
   r7,
   r6,
-  
+  ii,
   r4,
   r3,
   r2,

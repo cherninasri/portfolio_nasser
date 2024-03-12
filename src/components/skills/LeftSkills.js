@@ -32,26 +32,26 @@ const LeftSkills = () => {
     ></div> </div>
     <div className='flex flex-row justify-between w-full mt-5' >
       <div className=" text-lg font-bold text-designColor ">JS</div>
-      <div className=" text-lg font-bold text-designColor">75%</div>
+      <div className=" text-lg font-bold text-designColor">80%</div>
       
       
       
       </div>
       <div className='w-full h-3 rounded-3xl bg-black'> 
       <div
-      className="h-full rounded-3xl bg-designColor w-3/4 - "
+      className="h-full rounded-3xl bg-designColor w-4/5 - "
       
     ></div> </div>
     <div className='flex flex-row justify-between w-full mt-5' >
       <div className=" text-lg font-bold text-designColor ">REACT JS</div>
-      <div className=" text-lg font-bold text-designColor">70%</div>
+      <div className=" text-lg font-bold text-designColor">85%</div>
       
       
       
       </div>
       <div className='w-full h-3 rounded-3xl bg-black'> 
       <div
-      className="h-full rounded-3xl bg-designColor w-8/12 - "
+      className="h-full rounded-3xl bg-designColor w-5/6 - "
       
     ></div> </div>
     <div className='flex flex-row justify-between w-full mt-5' >
@@ -68,26 +68,26 @@ const LeftSkills = () => {
     ></div> </div>
     <div className='flex flex-row justify-between w-full mt-5' >
       <div className=" text-lg font-bold text-designColor ">DART</div>
-      <div className=" text-lg font-bold text-designColor">60%</div>
+      <div className=" text-lg font-bold text-designColor">80%</div>
       
       
       
       </div>
       <div className='w-full h-3 rounded-3xl bg-black'> 
       <div
-      className="h-full rounded-3xl bg-designColor w-3/5 - "
+      className="h-full rounded-3xl bg-designColor w-4/5 - "
       
     ></div> </div>
     <div className='flex flex-row justify-between w-full mt-5' >
       <div className=" text-lg font-bold text-designColor ">FLUTTER</div>
-      <div className=" text-lg font-bold text-designColor">50%</div>
+      <div className=" text-lg font-bold text-designColor">80%</div>
       
       
       
       </div>
       <div className='w-full h-3 rounded-3xl bg-black'> 
       <div
-      className="h-full rounded-3xl bg-designColor w-1/2 - "
+      className="h-full rounded-3xl bg-designColor w-4/5 - "
       
     ></div> </div>
 
